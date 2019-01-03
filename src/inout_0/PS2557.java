@@ -1,4 +1,4 @@
-package inout_1;
+package inout_0;
 
 // https://www.acmicpc.net/problem/2557
 public class PS2557 {
