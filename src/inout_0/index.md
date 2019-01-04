@@ -1,9 +1,6 @@
 ## 0. 입출력
 
 > 5 / 29
-```
-5 / 29
-```
 
 1. [**BOJ : 2557**](https://www.acmicpc.net/problem/2557), 
 [PS : 2557](https://github.com/kimhyeon/PS/blob/master/src/inout_0/PS2557.java)
