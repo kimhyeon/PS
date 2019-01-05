@@ -3,6 +3,7 @@ package inout_0;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+//https://www.acmicpc.net/problem/1924
 public class PS1924 {
 
 	public static void main(String[] args) throws Exception {
