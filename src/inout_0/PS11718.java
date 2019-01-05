@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 //https://www.acmicpc.net/problem/11718
 public class PS11718 {
 	
-public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception {
 		
 		BufferedReader br = 
 				new BufferedReader(new InputStreamReader(System.in));
