@@ -51,7 +51,8 @@
 18. [**BOJ 8393**](https://www.acmicpc.net/problem/8393),
 [PS 8393](https://github.com/kimhyeon/PS/blob/master/src/inout_0/PS8393.java)
 
-19. [**BOJ 10818**](https://www.acmicpc.net/problem/10818)
+19. [**BOJ 10818**](https://www.acmicpc.net/problem/10818),
+[PS 10818](https://github.com/kimhyeon/PS/blob/master/src/inout_0/PS10818.java)
 
 20. [**BOJ 2438**](https://www.acmicpc.net/problem/2438)
 
