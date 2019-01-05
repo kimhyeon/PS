@@ -7,7 +7,8 @@ public class PS1000 {
 
 	public static void main(String[] args) throws Exception {
 		
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader bf = 
+				new BufferedReader(new InputStreamReader(System.in));
 		
 		String a[] = bf.readLine().split(" ");
 		

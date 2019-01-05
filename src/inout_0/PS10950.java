@@ -8,7 +8,8 @@ public class PS10950 {
 
 	public static void main(String[] args) throws Exception {
 		
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = 
+				new BufferedReader(new InputStreamReader(System.in));
 		int testCase = Integer.parseInt(br.readLine());
 		
 		String[] strs;
