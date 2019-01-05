@@ -10,14 +10,27 @@ public class PS10818 {
 		BufferedReader br = 
 				new BufferedReader(new InputStreamReader(System.in));
 		
-		int num = Integer.valueOf(br.readLine());
+		int counts = Integer.valueOf(br.readLine());
 		
-		int result = 0;
-		for(int i = 1; i <= num; i++) {
-			result += i;
+		String[] str = br.readLine().split(" ");
+		
+		int min = 1000000;
+		int max = -1000000;
+		
+		for(int i = 0; i < counts; i++) {
+			int num = Integer.valueOf(str[i]);
+			
+			if(num <= min) {
+				min = num;
+			}
+			
+			if(num >= max) {
+				max = num;
+			}
+			
 		}
 		
-		System.out.println(result);
+		System.out.println(min+" "+max);		
 		
 	}
 
