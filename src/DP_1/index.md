@@ -1,4 +1,4 @@
-## 0. DP
+## 1. DP
 
 1. [**BOJ 1463**](https://www.acmicpc.net/problem/1463), 
 [PS 1463](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS1463.java)
