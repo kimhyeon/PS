@@ -12,6 +12,6 @@
 4. [**BOJ 9095**](https://www.acmicpc.net/problem/9095), 
 [PS 9095](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS9095.java)
 
-5. [**BOJ 10819**](https://www.acmicpc.net/problem/10819)
+5. [**BOJ 10844**](https://www.acmicpc.net/problem/10844)
 
 
