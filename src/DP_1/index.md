@@ -18,4 +18,7 @@
 6. [**BOJ 11057**](https://www.acmicpc.net/problem/10844), 
 [PS 11057](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11057.java)
 
-7. [**BOJ 2193**](https://www.acmicpc.net/problem/2193)
+7. [**BOJ 2193**](https://www.acmicpc.net/problem/2193),
+[PS 2193](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS2193.java)
+
+8. [**BOJ 9465**](https://www.acmicpc.net/problem/9465),
