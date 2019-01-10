@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 
 //https://www.acmicpc.net/problem/PS11057
 //[bottom-up]
-
 public class PS11057 {
 
 	public static void main(String[] args) throws Exception {
