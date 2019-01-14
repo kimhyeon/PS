@@ -3,7 +3,7 @@ package DP_1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-//https://www.acmicpc.net/problem/PS2156
+//https://www.acmicpc.net/problem/PS2156, Æ÷µµÁÖ
 //[bottom-up]
 public class PS2156 {
 
@@ -32,6 +32,7 @@ public class PS2156 {
 					// Max(OOX, OXO, @+XOO)
 					cache[i] = Math.max(cache[i-1], Math.max(cache[i-2] + datas[i], cache[i-3] + datas[i-1] + datas[i]));
 				} else {
+					// Max(OOX, OXO, XOO)
 					cache[i] = Math.max(cache[i-1], Math.max(cache[i-2] + datas[i], datas[i-1] + datas[i]));
 				}
 			}

@@ -3,7 +3,7 @@ package DP_1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-//https://www.acmicpc.net/problem/PS9465
+//https://www.acmicpc.net/problem/PS9465, ½ºÆ¼Ä¿
 //[bottom-up]
 public class PS9465 {
 
