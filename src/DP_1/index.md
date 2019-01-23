@@ -30,10 +30,13 @@
 10. [**BOJ 11053**](https://www.acmicpc.net/problem/11053),
 [PS 11053](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11053.java)
 
-11. [**BOJ 11055**](https://www.acmicpc.net/problem/11055)
+11. [**BOJ 11055**](https://www.acmicpc.net/problem/11055),
+[PS 11055](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11055.java)
 
-12. [**BOJ 11722**](https://www.acmicpc.net/problem/11722)
+12. [**BOJ 11722**](https://www.acmicpc.net/problem/11722),
+[PS 11722](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11722.java)
 
-13. [**BOJ 11054**](https://www.acmicpc.net/problem/11054)
+13. [**BOJ 11054**](https://www.acmicpc.net/problem/11054),
+[PS 11054](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11054.java)
 
 14. [**BOJ 1912**](https://www.acmicpc.net/problem/1912)
