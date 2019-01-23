@@ -31,3 +31,9 @@
 [PS 11053](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11053.java)
 
 11. [**BOJ 11055**](https://www.acmicpc.net/problem/11055)
+
+12. [**BOJ 11722**](https://www.acmicpc.net/problem/11722)
+
+13. [**BOJ 11054**](https://www.acmicpc.net/problem/11054)
+
+14. [**BOJ 1912**](https://www.acmicpc.net/problem/1912)
