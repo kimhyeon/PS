@@ -3,6 +3,8 @@ package DP_1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+//https://www.acmicpc.net/problem/1912
+//[bottom-up]
 public class PS1912 {
 	
 	public static void main(String[] args) throws Exception {
