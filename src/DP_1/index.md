@@ -42,7 +42,8 @@
 14. [**BOJ 1912**](https://www.acmicpc.net/problem/1912), 
 [PS 1912](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS1912.java)
 
-14. [**BOJ 2579**](https://www.acmicpc.net/problem/2579)
+14. [**BOJ 2579**](https://www.acmicpc.net/problem/2579), 
+[PS 2579](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS2579.java)
 
 14. [**BOJ 1699**](https://www.acmicpc.net/problem/1699)
 
