@@ -59,7 +59,8 @@
 
 14. [**BOJ 2011**](https://www.acmicpc.net/problem/2011)
 
-14. [**BOJ 11052**](https://www.acmicpc.net/problem/11052)
+14. [**BOJ 11052**](https://www.acmicpc.net/problem/11052),
+[PS 11052](https://github.com/kimhyeon/PS/blob/master/src/DP_1/PS11052.java)
 
 
 
