@@ -13,3 +13,13 @@
 [PS 10814](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10814.java)
 
 5. [**BOJ 10825**](https://www.acmicpc.net/problem/10825)
+
+5. [**BOJ 10989**](https://www.acmicpc.net/problem/10989)
+
+5. [**BOJ 11652**](https://www.acmicpc.net/problem/11652)
+
+5. [**BOJ 11004**](https://www.acmicpc.net/problem/11004)
+
+5. [**BOJ 10828**](https://www.acmicpc.net/problem/10828)
+
+5. [**BOJ 9012**](https://www.acmicpc.net/problem/9012)
