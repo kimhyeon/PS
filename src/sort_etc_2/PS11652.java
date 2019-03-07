@@ -6,7 +6,6 @@ import java.math.BigInteger;
 import java.util.Arrays;
 
 // https://www.acmicpc.net/problem/11652
-
 public class PS11652 {
 	
 	public static void main(String[] args) throws Exception {
