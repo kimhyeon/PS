@@ -21,8 +21,15 @@
 5. [**BOJ 11652**](https://www.acmicpc.net/problem/11652),
 [PS 11652](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS11652.java)
 
-5. [**BOJ 11004**](https://www.acmicpc.net/problem/11004)
+5. [**BOJ 11004**](https://www.acmicpc.net/problem/11004),
+[PS 11004 - 다시풀기](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS11004.java)
 
-5. [**BOJ 10828**](https://www.acmicpc.net/problem/10828)
+5. [**BOJ 10828**](https://www.acmicpc.net/problem/10828),
+[PS 10828](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10828.java)
 
-5. [**BOJ 9012**](https://www.acmicpc.net/problem/9012)
+5. [**BOJ 9012**](https://www.acmicpc.net/problem/9012),
+[PS 9012](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS9012.java)
+
+
+
+
