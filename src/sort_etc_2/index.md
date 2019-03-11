@@ -12,23 +12,51 @@
 4. [**BOJ 10814**](https://www.acmicpc.net/problem/10814),
 [PS 10814](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10814.java)
 
-5. [**BOJ 10825**](https://www.acmicpc.net/problem/10825),
+6. [**BOJ 10825**](https://www.acmicpc.net/problem/10825),
 [PS 10825](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10825.java)
 
-5. [**BOJ 10989**](https://www.acmicpc.net/problem/10989),
+7. [**BOJ 10989**](https://www.acmicpc.net/problem/10989),
 [PS 10989](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10989.java)
 
-5. [**BOJ 11652**](https://www.acmicpc.net/problem/11652),
+8. [**BOJ 11652**](https://www.acmicpc.net/problem/11652),
 [PS 11652](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS11652.java)
 
-5. [**BOJ 11004**](https://www.acmicpc.net/problem/11004),
+9. [**BOJ 11004**](https://www.acmicpc.net/problem/11004),
 [PS 11004 - 다시풀기](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS11004.java)
 
-5. [**BOJ 10828**](https://www.acmicpc.net/problem/10828),
+10. [**BOJ 10828**](https://www.acmicpc.net/problem/10828),
 [PS 10828](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10828.java)
 
-5. [**BOJ 9012**](https://www.acmicpc.net/problem/9012),
+11. [**BOJ 9012**](https://www.acmicpc.net/problem/9012),
 [PS 9012](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS9012.java)
+
+12. [**BOJ 10799**](https://www.acmicpc.net/problem/10799),
+
+13. [**BOJ 10845**](https://www.acmicpc.net/problem/10845)
+
+14. [**BOJ 10866**](https://www.acmicpc.net/problem/10866)
+
+15. [**BOJ 10808**](https://www.acmicpc.net/problem/10808)
+
+16. [**BOJ 10809**](https://www.acmicpc.net/problem/10809)
+
+17. [**BOJ 10820**](https://www.acmicpc.net/problem/10820)
+
+18. [**BOJ 2743**](https://www.acmicpc.net/problem/2743)
+
+19. [**BOJ 11655**](https://www.acmicpc.net/problem/11655)
+
+20. [**BOJ 10824**](https://www.acmicpc.net/problem/10824)
+
+21. [**BOJ 11656**](https://www.acmicpc.net/problem/11656)
+
+22. [**BOJ 1406**](https://www.acmicpc.net/problem/1406)
+
+23. [**BOJ 1158**](https://www.acmicpc.net/problem/1158)
+
+
+
+
 
 
 
