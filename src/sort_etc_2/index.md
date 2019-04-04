@@ -36,11 +36,17 @@
 13. [**BOJ 10845**](https://www.acmicpc.net/problem/10845),
 [PS 10845](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10845.java)
 
-14. [**BOJ 10866**](https://www.acmicpc.net/problem/10866)
+14. [**BOJ 10866**](https://www.acmicpc.net/problem/10866),
+[PS 10866](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10866.java)
 
-15. [**BOJ 10808**](https://www.acmicpc.net/problem/10808)
 
-16. [**BOJ 10809**](https://www.acmicpc.net/problem/10809)
+15. [**BOJ 10808**](https://www.acmicpc.net/problem/10808),
+[PS 10808](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10808.java)
+
+
+16. [**BOJ 10809**](https://www.acmicpc.net/problem/10809),
+[PS 10809](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10809.java)
+
 
 17. [**BOJ 10820**](https://www.acmicpc.net/problem/10820)
 
