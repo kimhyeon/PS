@@ -31,8 +31,10 @@
 [PS 9012](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS9012.java)
 
 12. [**BOJ 10799**](https://www.acmicpc.net/problem/10799),
+[PS 9012](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10799.java)
 
-13. [**BOJ 10845**](https://www.acmicpc.net/problem/10845)
+13. [**BOJ 10845**](https://www.acmicpc.net/problem/10845),
+[PS 9012](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS10845.java)
 
 14. [**BOJ 10866**](https://www.acmicpc.net/problem/10866)
 
