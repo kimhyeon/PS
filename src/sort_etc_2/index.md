@@ -65,7 +65,8 @@
 22. [**BOJ 1406**](https://www.acmicpc.net/problem/1406),
 [PS 1406](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS1406.java)
 
-23. [**BOJ 1158**](https://www.acmicpc.net/problem/1158)
+23. [**BOJ 1158**](https://www.acmicpc.net/problem/1158),
+[PS 1158](https://github.com/kimhyeon/PS/blob/master/src/sort_etc_2/PS1158.java)
 
 
 
